@@ -1,0 +1,12 @@
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/bin/Debug/netcoreapp3.1/task-1.deps.json
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/bin/Debug/netcoreapp3.1/task-1.runtimeconfig.json
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/bin/Debug/netcoreapp3.1/task-1.runtimeconfig.dev.json
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/bin/Debug/netcoreapp3.1/task-1.dll
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/bin/Debug/netcoreapp3.1/task-1.pdb
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.csproj.AssemblyReference.cache
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.AssemblyInfoInputs.cache
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.AssemblyInfo.cs
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.csproj.CoreCompileInputs.cache
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.dll
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.pdb
+/Users/bogdanpirozok/Desktop/education/education-c/task-1/task-1/obj/Debug/netcoreapp3.1/task-1.genruntimeconfig.cache
